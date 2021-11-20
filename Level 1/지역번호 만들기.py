@@ -1,20 +1,4 @@
-# -*- coding: utf-8 -*-
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py:light,md
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.13.1
-#   kernelspec:
-#     display_name: Python 3
-#     language: python
-#     name: python3
-# ---
 
-# + [markdown] id="edUALcY5dX5F"
 # ## 딕셔너리의 결과가 아래와 같이 나오도록 아래의 문자열을 변경해 보세요.
 # ```
 # {'경기': '031',
