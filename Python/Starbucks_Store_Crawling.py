@@ -10,7 +10,7 @@ response=requests.post(url) #post로 받기
 starbucks_sido=response.json() #API는 거의 제이슨 형식 
  
 
-#1. 시도 리스트 받아오기  
+#시도 리스트 받아오기  
 starbucks_sidolist=starbucks_sido['list']
 
 df1=pd.DataFrame(starbucks_sidolist)
