@@ -33,4 +33,3 @@ temp
 
 temp.drop('Unnamed: 6',axis=1)
 
-
